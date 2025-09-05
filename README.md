@@ -40,3 +40,6 @@ This project was a fantastic opportunity to go from an idea to a fully functiona
 -   Implementing modern, responsive design with Tailwind CSS.
 -   Adding interactivity with JavaScript.
 -   Managing a project from start to finish with Git.
+
+✍️ Author
+Ubongabasi Ebebe - ![LinkedIn](https://www.linkedin.com/in/ubongabasiebebe/)
